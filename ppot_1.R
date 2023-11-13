@@ -1,6 +1,6 @@
 ### Read in both datasets
-data=read.csv('/home/jonas/PycharmProjects/pythonProject/data/athletes.csv') 
-anon_data=read.csv('/home/jonas/PycharmProjects/pythonProject/data/anonymized_athletes.csv') 
+data=read.csv('data/athletes.csv') 
+anon_data=read.csv('data/anonymized_athletes.csv') 
 
 
 ### Height and weight histogram display (filter out inhumane values for better visualisation)
